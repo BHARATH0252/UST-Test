@@ -1,1 +1,1 @@
-Hello
+System.print.out("Hello");
